@@ -1,1 +1,2 @@
-# Exercicios_classes_herenca_Python
+# Exercicios: Classes, herença em Python
+
