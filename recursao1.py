@@ -1,7 +1,8 @@
 '''
 Data Scientist Jr.: Eddy Giusepe Chirinos Isidro
 
-Neste exemplo de recursão aplicaremos o DEBUGGER para entender o passo a passo do tudo o processo
+Neste exemplo de recursão aplicaremos o DEBUGGER para entender o passo a passo do tudo o processo.
+Link de estudo: https://www.youtube.com/watch?v=CiULVWWscU4
 '''
 # Exemplo de recursão
 def recursao(i):
