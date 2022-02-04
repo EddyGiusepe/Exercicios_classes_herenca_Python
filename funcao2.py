@@ -25,7 +25,7 @@ def somatorio():
 def resultado():
     print("Soma: ", soma)
 '''    
-Para que o código fique melhor implementado fazemos:    
+Para que o código fique melhor implementado, fazemos:    
 '''
 if __name__ == "__main__":
     leitura()
